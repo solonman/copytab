@@ -1,0 +1,5 @@
+{
+  "name": "CopyTab",
+  "description": "An AI-powered copywriting assistant that brings the efficiency of code completion to content creation. It automates repetitive information, offers intelligent rewrite suggestions, and ensures a seamless writing experience with offline support.",
+  "requestFramePermissions": []
+}
